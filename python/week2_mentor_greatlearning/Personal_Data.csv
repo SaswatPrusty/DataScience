@@ -1,0 +1,1471 @@
+EmpID,Age,EducationField,Gender,MaritalStatus,DistanceFromHome
+2102210,41,Life Sciences,Female,Single,1
+2102211,49,Life Sciences,Male,Married,8
+2102212,37,Other,Male,Single,2
+2102213,33,Life Sciences,Female,Married,3
+2102214,27,Medical,Male,Married,2
+2102215,32,Life Sciences,Male,Single,2
+2102216,59,Medical,Female,Married,3
+2102217,30,Life Sciences,Male,Divorced,24
+2102218,38,Life Sciences,Male,Single,23
+2102219,36,Medical,Male,Married,27
+2102220,35,Medical,Male,Married,16
+2102221,29,Life Sciences,Female,Single,15
+2102222,31,Life Sciences,Male,Divorced,26
+2102223,34,Medical,Male,Divorced,19
+2102224,28,Life Sciences,Male,Single,24
+2102225,29,Life Sciences,Female,Divorced,21
+2102226,32,Life Sciences,Male,Divorced,5
+2102227,22,Medical,Male,Divorced,16
+2102228,53,Life Sciences,Female,Married,2
+2102229,38,Life Sciences,Male,Single,2
+2102230,24,Other,Female,Divorced,11
+2102231,36,Life Sciences,Male,Single,9
+2102232,34,Life Sciences,Female,Single,7
+2102233,21,Life Sciences,Male,Single,15
+2102234,34,Medical,Male,Single,6
+2102235,53,Other,Female,Divorced,5
+2102236,32,Life Sciences,Female,Single,16
+2102237,42,Marketing,Male,Married,8
+2102238,44,Medical,Female,Married,7
+2102239,46,Marketing,Female,Single,2
+2102240,33,Medical,Male,Single,2
+2102241,44,Other,Male,Married,10
+2102242,30,Medical,Male,Single,9
+2102243,39,Technical Degree,Male,Married,5
+2102244,24,Medical,Male,Married,1
+2102245,43,Medical,Female,Divorced,2
+2102246,50,Marketing,Male,Married,3
+2102247,35,Marketing,Female,Married,2
+2102248,36,Life Sciences,Female,Married,5
+2102249,33,Life Sciences,Female,Married,1
+2102250,35,Other,Male,Divorced,4
+2102251,27,Life Sciences,Female,Divorced,2
+2102252,26,Life Sciences,Male,Single,25
+2102253,27,Life Sciences,Male,Single,8
+2102254,30,Medical,Female,Single,1
+2102255,41,Technical Degree,Female,Married,12
+2102256,34,Marketing,Male,Single,23
+2102257,37,Life Sciences,Male,Married,19
+2102258,46,Marketing,Male,Single,5
+2102259,35,Life Sciences,Male,Married,8
+2102260,48,Life Sciences,Male,Single,1
+2102261,28,Technical Degree,Male,Single,5
+2102262,44,Marketing,Female,Divorced,1
+2102263,35,Medical,Male,Married,11
+2102264,26,Marketing,Female,Married,23
+2102265,33,Life Sciences,Female,Single,1
+2102266,35,Life Sciences,Male,Married,18
+2102267,35,Medical,Female,Married,23
+2102268,31,Life Sciences,Male,Divorced,7
+2102269,37,Life Sciences,Male,Divorced,1
+2102270,32,Medical,Male,Married,1
+2102271,38,Life Sciences,Female,Single,29
+2102272,50,Medical,Female,Divorced,7
+2102273,59,Life Sciences,Female,Single,25
+2102274,36,Technical Degree,Female,Divorced,8
+2102275,55,Medical,Female,Divorced,8
+2102276,36,Life Sciences,Male,Single,11
+2102277,45,Life Sciences,Male,Divorced,7
+2102278,35,Medical,Male,Married,1
+2102279,36,Medical,Male,Married,9
+2102280,59,Life Sciences,Female,Single,1
+2102281,29,Life Sciences,Male,Married,2
+2102282,31,Medical,Male,Single,1
+2102283,32,Life Sciences,Male,Married,1
+2102284,36,Life Sciences,Female,Married,6
+2102285,31,Life Sciences,Female,Single,8
+2102286,35,Marketing,Male,Single,1
+2102287,45,Other,Male,Married,6
+2102288,37,Medical,Male,Single,7
+2102289,46,Medical,Male,Divorced,5
+2102290,30,Life Sciences,Male,Married,1
+2102291,35,Medical,Male,Single,1
+2102292,55,Life Sciences,Male,Married,1
+2102293,38,Medical,Female,Divorced,6
+2102294,34,Medical,Male,Married,1
+2102295,56,Life Sciences,Male,Single,7
+2102296,23,Technical Degree,Male,Divorced,2
+2102297,51,Life Sciences,Male,Married,9
+2102298,30,Life Sciences,Male,Married,2
+2102299,46,Medical,Male,Single,9
+2102300,40,Life Sciences,Male,Married,1
+2102301,51,Marketing,Male,Single,21
+2102302,30,Medical,Female,Divorced,4
+2102303,46,Medical,Male,Married,1
+2102304,32,Medical,Male,Single,6
+2102305,54,Technical Degree,Female,Married,2
+2102306,24,Other,Female,Married,3
+2102307,28,Medical,Male,Married,4
+2102308,58,Medical,Male,Single,10
+2102309,44,Medical,Male,Married,23
+2102310,37,Human Resources,Male,Divorced,6
+2102311,32,Life Sciences,Male,Single,1
+2102312,20,Life Sciences,Female,Single,6
+2102313,34,Other,Female,Single,6
+2102314,37,Life Sciences,Male,Divorced,2
+2102315,59,Human Resources,Female,Married,2
+2102316,50,Life Sciences,Female,Married,1
+2102317,25,Marketing,Male,Single,5
+2102318,25,Medical,Male,Married,7
+2102319,22,Medical,Female,Single,15
+2102320,51,Medical,Female,Single,1
+2102321,34,Life Sciences,Male,Single,7
+2102322,54,Human Resources,Female,Single,26
+2102323,24,Life Sciences,Male,Married,18
+2102324,34,Life Sciences,Female,Divorced,6
+2102325,37,Life Sciences,Male,Single,3
+2102326,34,Medical,Female,Single,5
+2102327,36,Technical Degree,Female,Married,11
+2102328,36,Life Sciences,Female,Divorced,3
+2102329,43,Life Sciences,Male,Married,26
+2102330,30,Life Sciences,Male,Divorced,23
+2102331,33,Marketing,Male,Married,22
+2102332,56,Life Sciences,Female,Married,14
+2102333,51,Life Sciences,Male,Single,6
+2102334,31,Life Sciences,Male,Married,6
+2102335,26,Other,Female,Married,6
+2102336,58,Medical,Female,Married,23
+2102337,19,Marketing,Male,Single,22
+2102338,22,Technical Degree,Male,Married,2
+2102339,49,Medical,Female,Married,20
+2102340,43,Medical,Female,Single,28
+2102341,50,Marketing,Female,Single,12
+2102342,31,Life Sciences,Female,Married,20
+2102343,41,Life Sciences,Male,Divorced,9
+2102344,26,Life Sciences,Female,Married,25
+2102345,36,Medical,Male,Divorced,6
+2102346,51,Life Sciences,Male,Single,8
+2102347,39,Life Sciences,Female,Married,4
+2102348,25,Life Sciences,Male,Married,28
+2102349,30,Human Resources,Male,Married,9
+2102350,32,Medical,Female,Single,9
+2102351,45,Medical,Male,Single,29
+2102352,38,Technical Degree,Female,Single,3
+2102353,30,Life Sciences,Female,Single,18
+2102354,32,Medical,Male,Divorced,9
+2102355,30,Technical Degree,Female,Divorced,5
+2102356,30,Medical,Male,Single,2
+2102357,41,Life Sciences,Male,Divorced,10
+2102358,41,Life Sciences,Male,Married,9
+2102359,19,Medical,Female,Single,3
+2102360,40,Medical,Female,Divorced,26
+2102361,35,Marketing,Male,Married,1
+2102362,53,Marketing,Male,Married,6
+2102363,45,Life Sciences,Male,Divorced,9
+2102364,32,Marketing,Female,Single,8
+2102365,29,Technical Degree,Male,Married,1
+2102366,51,Medical,Male,Married,7
+2102367,58,Medical,Female,Married,9
+2102368,40,Marketing,Male,Married,4
+2102369,34,Marketing,Female,Married,2
+2102370,22,Medical,Male,Married,19
+2102371,27,Medical,Male,Divorced,9
+2102372,28,Medical,Male,Married,21
+2102373,57,Life Sciences,Male,Divorced,24
+2102374,27,Medical,Male,Divorced,3
+2102375,50,Life Sciences,Female,Single,11
+2102376,41,Life Sciences,Male,Divorced,14
+2102377,30,Life Sciences,Female,Married,5
+2102378,38,Life Sciences,Female,Single,1
+2102379,32,Life Sciences,Male,Single,6
+2102380,27,Technical Degree,Male,Married,17
+2102381,19,Technical Degree,Female,Single,1
+2102382,36,Medical,Male,Single,3
+2102383,30,Medical,Male,Divorced,9
+2102384,45,Life Sciences,Female,Divorced,4
+2102385,56,Life Sciences,Female,Divorced,8
+2102386,33,Life Sciences,Male,Single,2
+2102387,19,Life Sciences,Male,Single,2
+2102388,46,Marketing,Female,Divorced,1
+2102389,38,Life Sciences,Female,Single,9
+2102390,31,Medical,Female,Married,12
+2102391,34,Medical,Female,Single,27
+2102392,41,Marketing,Female,Single,20
+2102393,50,Medical,Male,Married,1
+2102394,53,Medical,Female,Divorced,13
+2102395,33,Medical,Female,Married,14
+2102396,40,Medical,Female,Married,4
+2102397,55,Medical,Male,Single,14
+2102398,34,Life Sciences,Male,Married,2
+2102399,51,Medical,Female,Single,3
+2102400,52,Life Sciences,Male,Married,1
+2102401,27,Medical,Female,Single,9
+2102402,35,Life Sciences,Male,Married,23
+2102403,43,Medical,Male,Divorced,7
+2102404,45,Medical,Male,Married,2
+2102405,37,Life Sciences,Male,Married,21
+2102406,35,Medical,Female,Single,2
+2102407,42,Medical,Female,Divorced,21
+2102408,38,Life Sciences,Male,Married,2
+2102409,38,Technical Degree,Male,Married,29
+2102410,27,Technical Degree,Male,Married,1
+2102411,49,Life Sciences,Male,Divorced,18
+2102412,34,Medical,Male,Divorced,10
+2102413,40,Medical,Male,Married,19
+2102414,38,Medical,Male,Married,29
+2102415,29,Marketing,Female,Married,27
+2102416,22,Life Sciences,Male,Divorced,5
+2102417,36,Medical,Female,Single,18
+2102418,40,Life Sciences,Male,Married,9
+2102419,46,Medical,Male,Divorced,1
+2102420,32,Medical,Male,Married,4
+2102421,30,Life Sciences,Male,Single,1
+2102422,27,Life Sciences,Female,Single,20
+2102423,51,Life Sciences,Male,Married,8
+2102424,30,Technical Degree,Female,Single,3
+2102425,41,Life Sciences,Female,Single,6
+2102426,30,Marketing,Female,Single,26
+2102427,29,Technical Degree,Male,Single,1
+2102428,45,Medical,Female,Single,6
+2102429,54,Marketing,Female,Married,3
+2102430,36,Life Sciences,Male,Single,5
+2102431,33,Medical,Female,Married,4
+2102432,37,Other,Male,Divorced,11
+2102433,38,Life Sciences,Male,Divorced,3
+2102434,31,Medical,Male,Married,1
+2102435,59,Life Sciences,Male,Married,3
+2102436,37,Marketing,Male,Divorced,4
+2102437,29,Medical,Female,Married,1
+2102438,35,Marketing,Female,Single,1
+2102439,29,Medical,Male,Single,18
+2102440,52,Life Sciences,Female,Single,2
+2102441,42,Technical Degree,Male,Married,4
+2102442,59,Medical,Male,Married,6
+2102443,50,Medical,Female,Divorced,1
+2102444,33,Medical,Male,Married,14
+2102445,43,Marketing,Female,Married,16
+2102446,33,Life Sciences,Female,Married,2
+2102447,52,Life Sciences,Male,Single,2
+2102448,32,Life Sciences,Female,Married,4
+2102449,32,Life Sciences,Male,Single,1
+2102450,39,Medical,Female,Divorced,1
+2102451,32,Marketing,Male,Married,26
+2102452,41,Life Sciences,Male,Divorced,19
+2102453,40,Technical Degree,Male,Divorced,24
+2102454,45,Other,Male,Married,1
+2102455,31,Medical,Male,Divorced,3
+2102456,33,Life Sciences,Female,Married,5
+2102457,34,Life Sciences,Male,Married,2
+2102458,37,Medical,Female,Married,1
+2102459,45,Life Sciences,Male,Married,7
+2102460,37,Medical,Male,Divorced,10
+2102461,39,Technical Degree,Female,Single,2
+2102462,29,Life Sciences,Male,Single,15
+2102463,42,Life Sciences,Female,Single,17
+2102464,29,Marketing,Male,Divorced,20
+2102465,25,Life Sciences,Female,Married,1
+2102466,42,Medical,Female,Divorced,2
+2102467,40,Medical,Male,Divorced,2
+2102468,51,Life Sciences,Male,Married,1
+2102469,31,Medical,Male,Single,29
+2102470,32,Life Sciences,Male,Married,7
+2102471,38,Life Sciences,Male,Married,2
+2102472,32,Technical Degree,Male,Single,2
+2102473,46,Technical Degree,Female,Married,2
+2102474,28,Life Sciences,Male,Single,2
+2102475,29,Medical,Male,Married,2
+2102476,31,Medical,Male,Married,23
+2102477,25,Life Sciences,Male,Divorced,5
+2102478,45,Medical,Male,Married,20
+2102479,36,Life Sciences,Male,Married,6
+2102480,55,Medical,Male,Single,1
+2102481,47,Life Sciences,Male,Married,29
+2102482,28,Medical,Male,Married,9
+2102483,37,Medical,Male,Married,6
+2102484,21,Medical,Male,Single,3
+2102485,37,Medical,Female,Divorced,1
+2102486,35,Life Sciences,Female,Divorced,22
+2102487,38,Medical,Female,Divorced,7
+2102488,26,Life Sciences,Female,Divorced,1
+2102489,50,Life Sciences,Male,Divorced,4
+2102490,53,Medical,Male,Married,3
+2102491,42,Life Sciences,Male,Married,1
+2102492,29,Life Sciences,Male,Single,2
+2102493,55,Technical Degree,Male,Married,20
+2102494,26,Medical,Male,Married,11
+2102495,37,Life Sciences,Female,Single,1
+2102496,44,Life Sciences,Male,Divorced,24
+2102497,38,Life Sciences,Male,Divorced,23
+2102498,26,Medical,Male,Divorced,16
+2102499,28,Life Sciences,Female,Single,8
+2102500,49,Life Sciences,Female,Single,10
+2102501,36,Technical Degree,Male,Single,3
+2102502,31,Marketing,Female,Divorced,5
+2102503,26,Marketing,Male,Single,4
+2102504,37,Medical,Male,Married,9
+2102505,42,Marketing,Female,Married,26
+2102506,18,Life Sciences,Male,Single,3
+2102507,35,Marketing,Male,Married,16
+2102508,36,Life Sciences,Male,Married,18
+2102509,51,Medical,Male,Divorced,2
+2102510,41,Life Sciences,Male,Single,2
+2102511,18,Medical,Female,Single,10
+2102512,28,Medical,Male,Single,16
+2102513,31,Technical Degree,Male,Married,7
+2102514,39,Medical,Male,Divorced,1
+2102515,36,Life Sciences,Female,Married,24
+2102516,32,Life Sciences,Male,Married,7
+2102517,38,Life Sciences,Female,Married,25
+2102518,58,Life Sciences,Male,Divorced,1
+2102519,31,Technical Degree,Male,Married,5
+2102520,31,Human Resources,Male,Married,2
+2102521,45,Life Sciences,Male,Divorced,7
+2102522,31,Life Sciences,Male,Divorced,2
+2102523,33,Life Sciences,Female,Married,5
+2102524,39,Medical,Male,Married,10
+2102525,43,Life Sciences,Female,Single,10
+2102526,49,Technical Degree,Female,Single,1
+2102527,52,Medical,Male,Married,8
+2102528,27,Life Sciences,Female,Single,5
+2102529,32,Technical Degree,Female,Married,8
+2102530,27,Life Sciences,Male,Single,2
+2102531,31,Marketing,Male,Divorced,7
+2102532,32,Medical,Female,Single,2
+2102533,28,Medical,Male,Married,2
+2102534,30,Medical,Female,Married,28
+2102535,31,Life Sciences,Female,Married,7
+2102536,39,Medical,Male,Married,7
+2102537,39,Medical,Female,Married,3
+2102538,33,Marketing,Male,Single,10
+2102539,47,Life Sciences,Male,Married,5
+2102540,43,Life Sciences,Female,Divorced,10
+2102541,27,Marketing,Male,Married,1
+2102542,54,Life Sciences,Female,Single,20
+2102543,43,Life Sciences,Female,Married,7
+2102544,45,Other,Male,Married,8
+2102545,40,Medical,Male,Married,1
+2102546,29,Other,Male,Married,8
+2102547,29,Other,Male,Single,9
+2102548,30,Marketing,Female,Divorced,5
+2102549,27,Marketing,Female,Married,8
+2102550,37,Medical,Male,Divorced,5
+2102551,38,Life Sciences,Male,Divorced,15
+2102552,31,Medical,Female,Single,7
+2102553,29,Marketing,Female,Divorced,10
+2102554,35,Technical Degree,Male,Single,5
+2102555,23,Life Sciences,Male,Divorced,26
+2102556,41,Medical,Male,Single,6
+2102557,47,Medical,Male,Single,4
+2102558,42,Life Sciences,Female,Single,23
+2102559,29,Life Sciences,Male,Married,2
+2102560,42,Technical Degree,Male,Divorced,2
+2102561,32,Medical,Female,Married,2
+2102562,48,Medical,Female,Married,29
+2102563,37,Medical,Male,Divorced,6
+2102564,30,Technical Degree,Female,Married,25
+2102565,26,Life Sciences,Male,Married,1
+2102566,42,Other,Male,Single,2
+2102567,21,Technical Degree,Female,Single,1
+2102568,36,Medical,Female,Single,1
+2102569,36,Medical,Male,Married,3
+2102570,57,Medical,Male,Married,1
+2102571,40,Life Sciences,Female,Married,10
+2102572,21,Medical,Male,Single,9
+2102573,33,Marketing,Female,Single,5
+2102574,37,Medical,Female,Married,10
+2102575,46,Medical,Female,Married,7
+2102576,41,Marketing,Male,Single,4
+2102577,50,Technical Degree,Male,Single,10
+2102578,40,Marketing,Male,Married,22
+2102579,31,Life Sciences,Male,Single,9
+2102580,21,Life Sciences,Female,Single,12
+2102581,29,Life Sciences,Male,Single,23
+2102582,35,Life Sciences,Male,Single,9
+2102583,27,Medical,Male,Divorced,1
+2102584,28,Life Sciences,Male,Single,9
+2102585,49,Other,Male,Single,7
+2102586,51,Life Sciences,Female,Married,14
+2102587,36,Life Sciences,Female,Married,2
+2102588,34,Marketing,Male,Single,19
+2102589,55,Life Sciences,Female,Single,2
+2102590,24,Marketing,Female,Divorced,10
+2102591,30,Technical Degree,Male,Married,2
+2102592,26,Technical Degree,Male,Single,3
+2102593,22,Medical,Female,Married,11
+2102594,36,Medical,Male,Married,2
+2102595,30,Technical Degree,Male,Single,4
+2102596,37,Life Sciences,Female,Divorced,14
+2102597,40,Marketing,Female,Divorced,2
+2102598,42,Life Sciences,Female,Divorced,1
+2102599,37,Life Sciences,Male,Single,10
+2102600,43,Life Sciences,Male,Divorced,12
+2102601,40,Medical,Female,Married,2
+2102602,54,Medical,Male,Married,5
+2102603,34,Marketing,Female,Married,4
+2102604,31,Medical,Female,Married,7
+2102605,43,Medical,Male,Married,21
+2102606,43,Other,Female,Divorced,8
+2102607,25,Life Sciences,Female,Single,4
+2102608,37,Medical,Female,Married,25
+2102609,31,Life Sciences,Male,Married,1
+2102610,39,Life Sciences,Male,Divorced,1
+2102611,56,Life Sciences,Female,Married,6
+2102612,30,Technical Degree,Female,Single,12
+2102613,41,Marketing,Male,Married,1
+2102614,28,Medical,Male,Divorced,17
+2102615,25,Medical,Male,Married,3
+2102616,52,Medical,Male,Married,3
+2102617,45,Life Sciences,Male,Married,10
+2102618,52,Life Sciences,Female,Married,4
+2102619,42,Life Sciences,Female,Divorced,29
+2102620,30,Life Sciences,Female,Single,2
+2102621,60,Life Sciences,Female,Married,7
+2102622,46,Medical,Female,Divorced,18
+2102623,42,Technical Degree,Female,Married,28
+2102624,24,Technical Degree,Female,Single,1
+2102625,34,Marketing,Female,Divorced,6
+2102626,38,Life Sciences,Male,Married,2
+2102627,40,Life Sciences,Female,Married,2
+2102628,26,Life Sciences,Female,Divorced,23
+2102629,30,Life Sciences,Male,Married,3
+2102630,29,Medical,Male,Married,3
+2102631,29,Technical Degree,Female,Married,25
+2102632,19,Technical Degree,Male,Single,2
+2102633,30,Other,Female,Married,22
+2102634,57,Marketing,Male,Divorced,29
+2102635,50,Life Sciences,Male,Married,29
+2102636,30,Medical,Female,Single,2
+2102637,60,Marketing,Female,Married,28
+2102638,47,Medical,Female,Divorced,2
+2102639,46,Life Sciences,Male,Married,2
+2102640,35,Life Sciences,Male,Single,22
+2102641,54,Life Sciences,Female,Single,8
+2102642,34,Life Sciences,Male,Divorced,2
+2102643,46,Marketing,Female,Married,10
+2102644,31,Life Sciences,Male,Divorced,9
+2102645,33,Medical,Male,Married,15
+2102646,33,Medical,Male,Divorced,10
+2102647,30,Marketing,Male,Single,7
+2102648,35,Life Sciences,Male,Married,16
+2102649,31,Life Sciences,Male,Married,20
+2102650,34,Human Resources,Female,Divorced,23
+2102651,42,Other,Male,Married,5
+2102652,36,Medical,Male,Single,10
+2102653,22,Technical Degree,Male,Single,4
+2102654,48,Marketing,Female,Married,2
+2102655,55,Life Sciences,Female,Single,18
+2102656,41,Life Sciences,Male,Single,10
+2102657,35,Marketing,Male,Married,1
+2102658,40,Life Sciences,Female,Single,6
+2102659,39,Life Sciences,Female,Married,8
+2102660,31,Life Sciences,Male,Single,2
+2102661,42,Medical,Male,Married,24
+2102662,45,Other,Male,Married,2
+2102663,26,Life Sciences,Female,Divorced,17
+2102664,29,Technical Degree,Male,Divorced,19
+2102665,33,Medical,Female,Divorced,1
+2102666,31,Life Sciences,Male,Divorced,7
+2102667,18,Marketing,Male,Single,5
+2102668,40,Other,Male,Divorced,28
+2102669,41,Other,Female,Single,2
+2102670,26,Medical,Male,Divorced,29
+2102671,35,Medical,Female,Single,1
+2102672,34,Life Sciences,Male,Single,21
+2102673,26,Technical Degree,Male,Single,24
+2102674,37,Technical Degree,Female,Single,1
+2102675,46,Medical,Female,Married,18
+2102676,41,Life Sciences,Female,Married,2
+2102677,37,Medical,Male,Divorced,9
+2102678,52,Technical Degree,Male,Divorced,6
+2102679,32,Other,Male,Married,11
+2102680,24,Medical,Male,Married,24
+2102681,38,Medical,Female,Married,10
+2102682,37,Life Sciences,Female,Married,1
+2102683,49,Life Sciences,Male,Divorced,18
+2102684,24,Medical,Male,Married,23
+2102685,26,Marketing,Male,Married,28
+2102686,24,Other,Male,Married,17
+2102687,50,Medical,Male,Married,3
+2102688,25,Medical,Male,Married,13
+2102689,24,Life Sciences,Female,Married,7
+2102690,30,Life Sciences,Male,Married,12
+2102691,34,Life Sciences,Male,Married,1
+2102692,31,Medical,Male,Divorced,13
+2102693,35,Other,Male,Single,25
+2102694,31,Medical,Male,Divorced,6
+2102695,27,Medical,Female,Divorced,6
+2102696,37,Marketing,Male,Married,2
+2102697,20,Life Sciences,Female,Single,1
+2102698,42,Life Sciences,Female,Married,2
+2102699,43,Other,Male,Divorced,6
+2102700,38,Life Sciences,Female,Single,1
+2102701,43,Medical,Male,Divorced,9
+2102702,48,Life Sciences,Female,Married,1
+2102703,44,Life Sciences,Female,Single,1
+2102704,34,Technical Degree,Female,Divorced,14
+2102705,27,Marketing,Male,Divorced,2
+2102706,21,Technical Degree,Male,Single,22
+2102707,44,Other,Male,Married,3
+2102708,22,Medical,Male,Married,6
+2102709,33,Marketing,Male,Divorced,8
+2102710,32,Life Sciences,Female,Married,9
+2102711,30,Medical,Female,Divorced,3
+2102712,53,Medical,Female,Single,1
+2102713,34,Life Sciences,Male,Married,1
+2102714,45,Life Sciences,Female,Married,26
+2102715,26,Life Sciences,Female,Married,6
+2102716,37,Other,Male,Married,3
+2102717,29,Medical,Female,Married,3
+2102718,35,Life Sciences,Male,Single,6
+2102719,33,Life Sciences,Male,Divorced,6
+2102720,54,Medical,Male,Married,19
+2102721,36,Medical,Male,Divorced,9
+2102722,27,Medical,Male,Single,3
+2102723,20,Medical,Male,Single,10
+2102724,33,Life Sciences,Male,Single,3
+2102725,35,Life Sciences,Male,Married,3
+2102726,23,Medical,Male,Married,4
+2102727,25,Life Sciences,Male,Married,8
+2102728,38,Marketing,Female,Single,7
+2102729,29,Life Sciences,Male,Divorced,1
+2102730,48,Marketing,Male,Married,2
+2102731,27,Medical,Female,Divorced,3
+2102732,37,Life Sciences,Male,Single,10
+2102733,50,Medical,Male,Married,28
+2102734,34,Medical,Female,Single,9
+2102735,24,Life Sciences,Female,Single,3
+2102736,39,Technical Degree,Female,Single,2
+2102737,32,Marketing,Male,Single,10
+2102738,50,Technical Degree,Male,Married,8
+2102739,38,Life Sciences,Female,Single,1
+2102740,27,Life Sciences,Female,Married,1
+2102741,32,Life Sciences,Female,Single,3
+2102742,47,Marketing,Male,Single,14
+2102743,40,Life Sciences,Male,Married,5
+2102744,53,Life Sciences,Male,Married,7
+2102745,41,Human Resources,Male,Divorced,10
+2102746,60,Marketing,Male,Single,16
+2102747,27,Life Sciences,Male,Divorced,10
+2102748,41,Human Resources,Male,Married,1
+2102749,50,Marketing,Male,Married,8
+2102750,28,Life Sciences,Female,Single,1
+2102751,36,Life Sciences,Female,Married,8
+2102752,38,Life Sciences,Female,Single,1
+2102753,44,Medical,Male,Single,24
+2102754,47,Medical,Female,Divorced,3
+2102755,30,Marketing,Male,Divorced,27
+2102756,29,Life Sciences,Male,Single,10
+2102757,42,Medical,Male,Divorced,19
+2102758,43,Life Sciences,Male,Married,15
+2102759,34,Medical,Female,Single,8
+2102760,23,Medical,Male,Married,9
+2102761,39,Human Resources,Female,Married,3
+2102762,56,Medical,Male,Married,9
+2102763,40,Medical,Female,Single,2
+2102764,27,Medical,Female,Single,7
+2102765,29,Marketing,Male,Divorced,10
+2102766,53,Life Sciences,Male,Single,6
+2102767,35,Life Sciences,Female,Divorced,2
+2102768,32,Life Sciences,Male,Married,24
+2102769,38,Medical,Male,Married,2
+2102770,34,Life Sciences,Female,Divorced,8
+2102771,52,Marketing,Male,Married,3
+2102772,33,Other,Male,Single,1
+2102773,25,Medical,Female,Single,26
+2102774,45,Technical Degree,Male,Single,2
+2102775,23,Medical,Male,Single,10
+2102776,47,Life Sciences,Female,Single,27
+2102777,34,Other,Male,Single,2
+2102778,55,Medical,Male,Married,2
+2102779,36,Life Sciences,Male,Single,8
+2102780,52,Medical,Male,Married,19
+2102781,26,Life Sciences,Female,Divorced,1
+2102782,29,Medical,Female,Married,27
+2102783,26,Technical Degree,Male,Single,8
+2102784,34,Life Sciences,Female,Single,1
+2102785,54,Medical,Female,Divorced,19
+2102786,27,Marketing,Male,Married,8
+2102787,37,Life Sciences,Female,Divorced,10
+2102788,38,Life Sciences,Female,Single,2
+2102789,34,Medical,Female,Single,2
+2102790,35,Life Sciences,Female,Married,8
+2102791,30,Life Sciences,Male,Married,1
+2102792,40,Medical,Female,Married,2
+2102793,34,Life Sciences,Female,Married,8
+2102794,42,Life Sciences,Male,Divorced,8
+2102795,23,Life Sciences,Male,Married,6
+2102796,24,Life Sciences,Male,Divorced,9
+2102797,52,Life Sciences,Female,Married,11
+2102798,50,Medical,Male,Married,2
+2102799,29,Life Sciences,Female,Married,1
+2102800,33,Medical,Male,Married,7
+2102801,33,Marketing,Female,Single,16
+2102802,47,Other,Female,Married,2
+2102803,36,Other,Female,Married,1
+2102804,29,Life Sciences,Male,Married,23
+2102805,58,Life Sciences,Male,Single,2
+2102806,35,Life Sciences,Female,Single,1
+2102807,42,Life Sciences,Female,Married,1
+2102808,28,Medical,Male,Single,2
+2102809,36,Human Resources,Male,Married,13
+2102810,32,Life Sciences,Female,Married,4
+2102811,40,Medical,Male,Single,16
+2102812,30,Medical,Female,Single,2
+2102813,45,Life Sciences,Female,Single,2
+2102814,42,Life Sciences,Male,Married,29
+2102815,38,Life Sciences,Male,Divorced,12
+2102816,34,Life Sciences,Female,Single,16
+2102817,49,Marketing,Female,Married,11
+2102818,55,Medical,Male,Single,2
+2102819,43,Life Sciences,Male,Married,14
+2102820,27,Technical Degree,Male,Divorced,5
+2102821,35,Other,Male,Single,7
+2102822,28,Marketing,Female,Married,2
+2102823,34,Human Resources,Male,Married,3
+2102824,26,Medical,Female,Married,5
+2102825,27,Medical,Male,Married,3
+2102826,51,Marketing,Female,Married,26
+2102827,44,Medical,Male,Single,4
+2102828,25,Medical,Male,Single,2
+2102829,33,Medical,Male,Divorced,1
+2102830,35,Medical,Female,Single,27
+2102831,36,Life Sciences,Male,Married,1
+2102832,32,Life Sciences,Male,Divorced,13
+2102833,30,Life Sciences,Male,Divorced,5
+2102834,53,Marketing,Female,Married,7
+2102835,45,Marketing,Male,Divorced,9
+2102836,32,Medical,Female,Married,8
+2102837,52,Medical,Female,Married,25
+2102838,37,Marketing,Male,Divorced,16
+2102839,28,Medical,Male,Divorced,8
+2102840,22,Life Sciences,Male,Married,1
+2102841,44,Life Sciences,Male,Married,8
+2102842,42,Medical,Male,Single,2
+2102843,36,Life Sciences,Male,Married,8
+2102844,25,Other,Male,Married,3
+2102845,35,Life Sciences,Female,Married,9
+2102846,35,Life Sciences,Female,Divorced,25
+2102847,32,Life Sciences,Male,Divorced,1
+2102848,25,Marketing,Male,Married,4
+2102849,49,Technical Degree,Female,Married,1
+2102850,24,Life Sciences,Male,Married,4
+2102851,32,Life Sciences,Male,Married,5
+2102852,38,Marketing,Male,Married,9
+2102853,42,Life Sciences,Female,Married,3
+2102854,31,Life Sciences,Male,Married,11
+2102855,29,Medical,Female,Divorced,1
+2102856,53,Marketing,Male,Married,8
+2102857,35,Technical Degree,Male,Married,25
+2102858,37,Medical,Female,Married,21
+2102859,53,Life Sciences,Female,Single,23
+2102860,43,Life Sciences,Female,Married,1
+2102861,47,Marketing,Female,Married,2
+2102862,37,Medical,Male,Single,19
+2102863,50,Life Sciences,Male,Divorced,2
+2102864,39,Life Sciences,Female,Married,2
+2102865,33,Human Resources,Male,Divorced,3
+2102866,32,Life Sciences,Male,Single,25
+2102867,29,Medical,Female,Divorced,7
+2102868,44,Life Sciences,Male,Married,9
+2102869,28,Medical,Male,Single,5
+2102870,58,Life Sciences,Male,Divorced,2
+2102871,43,Life Sciences,Female,Divorced,8
+2102872,20,Medical,Female,Single,2
+2102873,21,Other,Female,Single,18
+2102874,36,Life Sciences,Male,Married,14
+2102875,47,Life Sciences,Female,Single,2
+2102876,22,Life Sciences,Female,Married,3
+2102877,41,Life Sciences,Female,Divorced,2
+2102878,28,Medical,Female,Divorced,9
+2102879,39,Medical,Male,Married,6
+2102880,27,Life Sciences,Female,Single,4
+2102881,34,Life Sciences,Male,Divorced,10
+2102882,42,Medical,Female,Single,14
+2102883,33,Other,Male,Single,1
+2102884,58,Technical Degree,Female,Divorced,5
+2102885,31,Life Sciences,Male,Married,7
+2102886,35,Life Sciences,Female,Married,21
+2102887,49,Other,Female,Married,8
+2102888,48,Medical,Male,Married,20
+2102889,31,Marketing,Female,Married,20
+2102890,36,Other,Male,Single,7
+2102891,38,Technical Degree,Female,Married,1
+2102892,32,Life Sciences,Female,Married,1
+2102893,25,Marketing,Male,Married,19
+2102894,40,Marketing,Male,Divorced,10
+2102895,26,Medical,Male,Single,1
+2102896,41,Medical,Male,Single,6
+2102897,36,Medical,Male,Single,2
+2102898,19,Other,Male,Single,21
+2102899,20,Technical Degree,Male,Single,4
+2102900,31,Medical,Female,Married,12
+2102901,40,Medical,Male,Divorced,9
+2102902,32,Medical,Female,Married,3
+2102903,36,Life Sciences,Male,Married,3
+2102904,33,Life Sciences,Female,Single,1
+2102905,37,Life Sciences,Male,Married,1
+2102906,45,Life Sciences,Male,Married,4
+2102907,29,Technical Degree,Female,Married,20
+2102908,35,Medical,Female,Married,18
+2102909,52,Life Sciences,Male,Married,1
+2102910,58,Technical Degree,Male,Single,2
+2102911,53,Medical,Male,Divorced,2
+2102912,30,Other,Male,Divorced,8
+2102913,38,Technical Degree,Female,Single,10
+2102914,35,Life Sciences,Male,Divorced,3
+2102915,39,Life Sciences,Male,Single,2
+2102916,40,Life Sciences,Female,Single,24
+2102917,47,Medical,Male,Divorced,16
+2102918,36,Technical Degree,Male,Divorced,8
+2102919,31,Medical,Male,Single,9
+2102920,33,Life Sciences,Male,Single,17
+2102921,29,Life Sciences,Female,Single,10
+2102922,33,Life Sciences,Female,Single,13
+2102923,45,Medical,Female,Divorced,1
+2102924,50,Medical,Male,Divorced,1
+2102925,33,Other,Female,Married,1
+2102926,41,Medical,Male,Divorced,9
+2102927,27,Technical Degree,Female,Married,16
+2102928,45,Life Sciences,Male,Married,23
+2102929,47,Life Sciences,Female,Single,4
+2102930,30,Life Sciences,Female,Married,22
+2102931,50,Life Sciences,Male,Married,24
+2102932,38,Medical,Male,Married,10
+2102933,46,Medical,Male,Divorced,7
+2102934,24,Medical,Female,Divorced,17
+2102935,35,Other,Male,Divorced,14
+2102936,31,Life Sciences,Female,Married,1
+2102937,18,Life Sciences,Male,Single,5
+2102938,54,Technical Degree,Female,Married,17
+2102939,35,Medical,Female,Divorced,25
+2102940,30,Life Sciences,Female,Married,8
+2102941,20,Medical,Female,Single,11
+2102942,30,Medical,Female,Single,5
+2102943,26,Medical,Male,Married,2
+2102944,22,Life Sciences,Male,Married,8
+2102945,48,Life Sciences,Male,Single,6
+2102946,48,Life Sciences,Male,Single,4
+2102947,41,Medical,Female,Single,7
+2102948,39,Life Sciences,Female,Married,1
+2102949,27,Life Sciences,Female,Married,2
+2102950,35,Other,Male,Divorced,10
+2102951,42,Marketing,Male,Married,5
+2102952,50,Life Sciences,Male,Married,9
+2102953,59,Life Sciences,Female,Single,2
+2102954,37,Medical,Female,Married,11
+2102955,55,Medical,Male,Married,18
+2102956,41,Life Sciences,Female,Divorced,7
+2102957,38,Life Sciences,Male,Single,3
+2102958,26,Medical,Male,Single,29
+2102959,52,Marketing,Female,Married,2
+2102960,44,Medical,Female,Married,28
+2102961,50,Life Sciences,Female,Married,1
+2102962,36,Life Sciences,Female,Single,16
+2102963,39,Medical,Female,Single,22
+2102964,33,Life Sciences,Female,Single,8
+2102965,45,Life Sciences,Female,Married,11
+2102966,32,Medical,Female,Single,29
+2102967,34,Marketing,Male,Divorced,1
+2102968,59,Technical Degree,Male,Married,1
+2102969,45,Medical,Male,Single,24
+2102970,53,Marketing,Female,Married,2
+2102971,36,Other,Male,Divorced,15
+2102972,26,Life Sciences,Male,Married,2
+2102973,34,Life Sciences,Female,Married,10
+2102974,28,Medical,Male,Married,10
+2102975,38,Other,Male,Married,3
+2102976,50,Medical,Male,Married,2
+2102977,37,Other,Female,Single,3
+2102978,40,Marketing,Male,Married,26
+2102979,26,Medical,Female,Divorced,1
+2102980,46,Medical,Male,Divorced,1
+2102981,54,Life Sciences,Female,Married,2
+2102982,56,Medical,Female,Married,9
+2102983,36,Medical,Female,Single,12
+2102984,55,Medical,Male,Single,2
+2102985,43,Medical,Male,Divorced,25
+2102986,20,Marketing,Female,Single,9
+2102987,21,Life Sciences,Female,Single,10
+2102988,46,Life Sciences,Female,Divorced,8
+2102989,51,Life Sciences,Male,Married,4
+2102990,28,Technical Degree,Male,Single,24
+2102991,26,Medical,Male,Married,1
+2102992,30,Other,Male,Married,20
+2102993,41,Technical Degree,Female,Married,7
+2102994,38,Life Sciences,Female,Married,17
+2102995,40,Technical Degree,Male,Married,20
+2102996,27,Life Sciences,Male,Married,8
+2102997,55,Life Sciences,Male,Married,2
+2102998,28,Other,Female,Single,10
+2102999,44,Medical,Male,Married,1
+2103000,33,Life Sciences,Male,Divorced,5
+2103001,35,Technical Degree,Male,Single,4
+2103002,33,Medical,Female,Single,29
+2103003,28,Life Sciences,Male,Divorced,15
+2103004,34,Life Sciences,Male,Single,3
+2103005,37,Life Sciences,Female,Divorced,10
+2103006,25,Technical Degree,Male,Married,4
+2103007,26,Medical,Male,Divorced,21
+2103008,33,Medical,Male,Single,25
+2103009,42,Medical,Male,Married,2
+2103010,28,Medical,Male,Divorced,1
+2103011,50,Other,Male,Single,1
+2103012,33,Life Sciences,Female,Married,7
+2103013,34,Life Sciences,Male,Married,3
+2103014,48,Medical,Male,Single,1
+2103015,45,Life Sciences,Female,Married,9
+2103016,52,Life Sciences,Male,Single,7
+2103017,38,Marketing,Male,Divorced,10
+2103018,29,Life Sciences,Female,Divorced,28
+2103019,28,Medical,Female,Divorced,3
+2103020,46,Marketing,Male,Married,3
+2103021,38,Marketing,Male,Single,2
+2103022,43,Life Sciences,Female,Married,27
+2103023,39,Life Sciences,Male,Divorced,2
+2103024,40,Medical,Male,Single,14
+2103025,21,Technical Degree,Female,Single,1
+2103026,39,Life Sciences,Male,Single,9
+2103027,36,Life Sciences,Male,Single,18
+2103028,31,Life Sciences,Male,Married,20
+2103029,28,Life Sciences,Male,Married,2
+2103030,35,Marketing,Male,Divorced,11
+2103031,49,Technical Degree,Male,Married,8
+2103032,34,Life Sciences,Male,Single,2
+2103033,29,Life Sciences,Female,Divorced,10
+2103034,42,Medical,Male,Single,29
+2103035,29,Medical,Male,Married,8
+2103036,38,Human Resources,Male,Married,1
+2103037,28,Life Sciences,Male,Divorced,6
+2103038,18,Medical,Male,Single,8
+2103039,33,Marketing,Female,Single,9
+2103040,41,Life Sciences,Male,Married,12
+2103041,31,Medical,Male,Married,15
+2103042,37,Medical,Female,Divorced,25
+2103043,27,Life Sciences,Male,Married,6
+2103044,34,Life Sciences,Female,Married,9
+2103045,35,Technical Degree,Male,Single,8
+2103046,29,Life Sciences,Female,Married,23
+2103047,40,Medical,Female,Single,9
+2103048,42,Life Sciences,Male,Single,12
+2103049,42,Marketing,Male,Single,4
+2103050,35,Medical,Male,Married,1
+2103051,24,Medical,Male,Single,24
+2103052,28,Life Sciences,Female,Married,12
+2103053,26,Medical,Male,Married,3
+2103054,30,Marketing,Male,Married,10
+2103055,40,Medical,Female,Married,26
+2103056,35,Life Sciences,Male,Divorced,2
+2103057,34,Medical,Male,Single,1
+2103058,35,Other,Male,Married,4
+2103059,43,Marketing,Female,Single,9
+2103060,32,Life Sciences,Female,Divorced,2
+2103061,56,Technical Degree,Female,Divorced,4
+2103062,29,Medical,Female,Married,6
+2103063,19,Life Sciences,Male,Single,9
+2103064,45,Medical,Female,Married,7
+2103065,37,Life Sciences,Female,Married,1
+2103066,20,Life Sciences,Male,Single,3
+2103067,44,Life Sciences,Male,Single,10
+2103068,53,Medical,Female,Divorced,7
+2103069,29,Life Sciences,Female,Married,15
+2103070,22,Life Sciences,Male,Married,3
+2103071,46,Marketing,Female,Married,2
+2103072,44,Life Sciences,Male,Single,17
+2103073,33,Human Resources,Male,Married,2
+2103074,41,Life Sciences,Male,Divorced,5
+2103075,30,Life Sciences,Male,Divorced,29
+2103076,40,Medical,Male,Married,2
+2103077,50,Medical,Female,Married,2
+2103078,28,Medical,Male,Married,19
+2103079,46,Life Sciences,Male,Married,15
+2103080,35,Life Sciences,Male,Married,17
+2103081,24,Life Sciences,Female,Married,17
+2103082,33,Medical,Female,Married,25
+2103083,36,Life Sciences,Male,Divorced,6
+2103084,30,Life Sciences,Male,Divorced,7
+2103085,44,Other,Male,Single,29
+2103086,20,Marketing,Male,Single,21
+2103087,46,Technical Degree,Male,Divorced,2
+2103088,42,Medical,Male,Married,2
+2103089,60,Marketing,Male,Divorced,7
+2103090,32,Other,Female,Married,13
+2103091,32,Life Sciences,Female,Single,2
+2103092,36,Technical Degree,Female,Divorced,1
+2103093,33,Medical,Male,Married,9
+2103094,40,Technical Degree,Female,Divorced,10
+2103095,25,Life Sciences,Male,Single,10
+2103096,30,Medical,Male,Married,1
+2103097,42,Medical,Female,Married,26
+2103098,35,Marketing,Female,Married,8
+2103099,27,Life Sciences,Male,Married,14
+2103100,54,Life Sciences,Female,Divorced,1
+2103101,44,Life Sciences,Female,Married,2
+2103102,19,Medical,Female,Single,10
+2103103,29,Life Sciences,Female,Divorced,1
+2103104,54,Life Sciences,Male,Married,3
+2103105,31,Medical,Male,Married,11
+2103106,31,Medical,Female,Single,24
+2103107,59,Life Sciences,Female,Single,3
+2103108,43,Life Sciences,Male,Married,3
+2103109,49,Medical,Male,Married,4
+2103110,36,Technical Degree,Male,Married,3
+2103111,48,Technical Degree,Male,Single,2
+2103112,27,Life Sciences,Male,Divorced,4
+2103113,29,Life Sciences,Male,Divorced,7
+2103114,48,Life Sciences,Male,Single,1
+2103115,29,Life Sciences,Female,Divorced,1
+2103116,34,Technical Degree,Female,Married,20
+2103117,44,Marketing,Male,Married,5
+2103118,33,Marketing,Male,Divorced,10
+2103119,19,Life Sciences,Female,Single,25
+2103120,23,Life Sciences,Male,Married,1
+2103121,25,Life Sciences,Male,Single,24
+2103122,26,Life Sciences,Male,Single,4
+2103123,45,Marketing,Female,Single,2
+2103124,55,Medical,Male,Divorced,8
+2103125,21,Life Sciences,Female,Single,10
+2103126,46,Marketing,Female,Married,4
+2103127,34,Marketing,Female,Single,2
+2103128,51,Life Sciences,Male,Divorced,9
+2103129,59,Medical,Male,Single,18
+2103130,34,Medical,Female,Divorced,19
+2103131,28,Medical,Male,Single,1
+2103132,44,Life Sciences,Male,Divorced,4
+2103133,34,Life Sciences,Male,Married,11
+2103134,35,Life Sciences,Male,Married,6
+2103135,42,Medical,Female,Married,7
+2103136,43,Marketing,Female,Single,4
+2103137,36,Life Sciences,Female,Single,2
+2103138,44,Medical,Female,Married,15
+2103139,28,Life Sciences,Male,Married,2
+2103140,51,Medical,Female,Single,6
+2103141,30,Medical,Female,Single,9
+2103142,29,Technical Degree,Female,Divorced,7
+2103143,28,Technical Degree,Male,Single,1
+2103144,25,Medical,Female,Single,1
+2103145,32,Medical,Male,Married,8
+2103146,45,Medical,Female,Single,25
+2103147,39,Medical,Female,Divorced,13
+2103148,58,Life Sciences,Male,Divorced,23
+2103149,32,Life Sciences,Male,Married,7
+2103150,39,Medical,Male,Single,23
+2103151,30,Technical Degree,Female,Married,6
+2103152,36,Technical Degree,Female,Married,10
+2103153,46,Life Sciences,Female,Single,1
+2103154,28,Life Sciences,Female,Married,1
+2103155,50,Life Sciences,Female,Married,28
+2103156,40,Marketing,Male,Single,25
+2103157,52,Life Sciences,Male,Single,5
+2103158,30,Medical,Female,Married,17
+2103159,39,Life Sciences,Male,Single,18
+2103160,31,Life Sciences,Female,Divorced,2
+2103161,41,Medical,Male,Single,10
+2103162,31,Life Sciences,Female,Single,1
+2103163,44,Life Sciences,Male,Married,3
+2103164,42,Life Sciences,Male,Married,2
+2103165,55,Medical,Female,Married,2
+2103166,56,Life Sciences,Male,Single,8
+2103167,40,Life Sciences,Male,Divorced,16
+2103168,34,Life Sciences,Male,Divorced,9
+2103169,40,Life Sciences,Male,Single,2
+2103170,41,Marketing,Female,Divorced,1
+2103171,35,Life Sciences,Male,Single,4
+2103172,51,Life Sciences,Male,Divorced,5
+2103173,38,Life Sciences,Female,Divorced,2
+2103174,34,Medical,Female,Single,15
+2103175,25,Medical,Male,Married,19
+2103176,58,Medical,Female,Married,7
+2103177,40,Life Sciences,Male,Married,1
+2103178,36,Marketing,Female,Married,7
+2103179,48,Life Sciences,Male,Single,4
+2103180,27,Medical,Female,Married,11
+2103181,51,Technical Degree,Female,Single,11
+2103182,18,Life Sciences,Female,Single,1
+2103183,35,Medical,Female,Married,1
+2103184,27,Life Sciences,Male,Single,2
+2103185,55,Marketing,Male,Single,13
+2103186,56,Life Sciences,Male,Married,23
+2103187,34,Technical Degree,Female,Divorced,26
+2103188,40,Medical,Female,Divorced,2
+2103189,34,Medical,Male,Married,29
+2103190,31,Life Sciences,Female,Single,2
+2103191,35,Marketing,Female,Married,18
+2103192,38,Life Sciences,Male,Divorced,7
+2103193,34,Technical Degree,Female,Single,2
+2103194,28,Life Sciences,Male,Married,26
+2103195,31,Medical,Male,Married,22
+2103196,39,Life Sciences,Male,Married,21
+2103197,51,Marketing,Male,Married,2
+2103198,41,Life Sciences,Female,Divorced,22
+2103199,37,Life Sciences,Male,Married,4
+2103200,33,Life Sciences,Male,Married,5
+2103201,32,Marketing,Male,Married,2
+2103202,39,Life Sciences,Male,Married,25
+2103203,25,Life Sciences,Male,Married,18
+2103204,52,Medical,Female,Married,28
+2103205,43,Medical,Female,Single,6
+2103206,27,Marketing,Female,Married,10
+2103207,27,Life Sciences,Female,Single,17
+2103208,26,Medical,Male,Single,2
+2103209,42,Human Resources,Female,Married,10
+2103210,52,Other,Female,Married,8
+2103211,37,Medical,Female,Single,11
+2103212,35,Life Sciences,Male,Single,18
+2103213,25,Technical Degree,Male,Married,1
+2103214,26,Other,Male,Single,7
+2103215,29,Other,Male,Single,17
+2103216,49,Life Sciences,Male,Single,28
+2103217,29,Other,Female,Single,14
+2103218,54,Medical,Female,Single,1
+2103219,58,Medical,Female,Married,1
+2103220,55,Medical,Male,Divorced,1
+2103221,36,Marketing,Female,Single,3
+2103222,31,Life Sciences,Female,Single,1
+2103223,30,Marketing,Female,Divorced,7
+2103224,31,Life Sciences,Female,Single,8
+2103225,34,Other,Male,Divorced,1
+2103226,31,Life Sciences,Female,Single,8
+2103227,27,Life Sciences,Male,Married,11
+2103228,36,Life Sciences,Male,Single,4
+2103229,36,Marketing,Female,Married,16
+2103230,47,Technical Degree,Male,Married,1
+2103231,25,Life Sciences,Male,Married,9
+2103232,37,Technical Degree,Male,Single,5
+2103233,56,Life Sciences,Female,Married,1
+2103234,47,Medical,Female,Married,2
+2103235,24,Medical,Female,Married,4
+2103236,32,Marketing,Male,Married,7
+2103237,34,Life Sciences,Female,Married,1
+2103238,41,Medical,Male,Married,5
+2103239,40,Other,Male,Divorced,9
+2103240,31,Life Sciences,Male,Divorced,8
+2103241,46,Marketing,Male,Divorced,9
+2103242,39,Life Sciences,Female,Single,2
+2103243,31,Life Sciences,Female,Single,1
+2103244,45,Medical,Male,Divorced,20
+2103245,31,Medical,Female,Single,8
+2103246,31,Life Sciences,Male,Married,2
+2103247,45,Technical Degree,Male,Married,29
+2103248,48,Marketing,Male,Divorced,7
+2103249,34,Technical Degree,Female,Married,9
+2103250,40,Medical,Male,Divorced,8
+2103251,28,Medical,Male,Single,5
+2103252,44,Life Sciences,Male,Single,5
+2103253,53,Medical,Male,Single,2
+2103254,49,Technical Degree,Male,Married,5
+2103255,40,Medical,Male,Divorced,2
+2103256,44,Life Sciences,Male,Single,20
+2103257,33,Medical,Male,Married,7
+2103258,34,Other,Male,Single,3
+2103259,30,Life Sciences,Male,Married,16
+2103260,42,Medical,Female,Single,9
+2103261,44,Marketing,Female,Married,1
+2103262,30,Technical Degree,Male,Divorced,7
+2103263,57,Life Sciences,Male,Married,1
+2103264,49,Life Sciences,Male,Divorced,7
+2103265,34,Medical,Male,Divorced,15
+2103266,28,Technical Degree,Male,Married,1
+2103267,29,Technical Degree,Female,Single,13
+2103268,34,Medical,Female,Single,24
+2103269,35,Life Sciences,Male,Married,7
+2103270,24,Medical,Male,Single,9
+2103271,24,Life Sciences,Female,Married,13
+2103272,44,Medical,Male,Single,2
+2103273,29,Life Sciences,Male,Divorced,19
+2103274,30,Life Sciences,Male,Divorced,1
+2103275,55,Life Sciences,Male,Married,4
+2103276,33,Medical,Female,Married,4
+2103277,47,Medical,Female,Married,14
+2103278,28,Medical,Male,Single,2
+2103279,28,Life Sciences,Male,Divorced,1
+2103280,28,Life Sciences,Male,Single,7
+2103281,49,Medical,Female,Married,3
+2103282,29,Life Sciences,Female,Married,2
+2103283,28,Life Sciences,Male,Married,29
+2103284,33,Life Sciences,Male,Single,8
+2103285,32,Medical,Male,Single,10
+2103286,54,Medical,Female,Divorced,11
+2103287,29,Technical Degree,Male,Single,1
+2103288,44,Life Sciences,Male,Married,28
+2103289,39,Life Sciences,Female,Single,6
+2103290,46,Life Sciences,Female,Married,3
+2103291,35,Life Sciences,Female,Single,16
+2103292,23,Life Sciences,Male,Single,20
+2103293,40,Life Sciences,Male,Single,9
+2103294,34,Technical Degree,Male,Married,1
+2103295,31,Life Sciences,Female,Single,3
+2103296,50,Medical,Male,Single,22
+2103297,34,Technical Degree,Male,Married,7
+2103298,42,Medical,Male,Married,2
+2103299,37,Medical,Male,Married,13
+2103300,29,Other,Female,Married,8
+2103301,33,Life Sciences,Male,Single,25
+2103302,45,Technical Degree,Male,Married,28
+2103303,42,Life Sciences,Male,Married,2
+2103304,40,Medical,Male,Married,9
+2103305,33,Life Sciences,Male,Married,28
+2103306,40,Medical,Male,Single,6
+2103307,24,Technical Degree,Male,Divorced,21
+2103308,40,Life Sciences,Male,Divorced,8
+2103309,45,Technical Degree,Male,Divorced,1
+2103310,35,Life Sciences,Female,Married,28
+2103311,32,Life Sciences,Female,Married,5
+2103312,36,Life Sciences,Male,Single,2
+2103313,48,Life Sciences,Female,Divorced,16
+2103314,29,Life Sciences,Male,Married,9
+2103315,33,Life Sciences,Male,Married,8
+2103316,30,Life Sciences,Male,Married,1
+2103317,38,Human Resources,Male,Married,10
+2103318,35,Medical,Male,Single,1
+2103319,30,Technical Degree,Male,Married,29
+2103320,35,Life Sciences,Female,Divorced,2
+2103321,53,Technical Degree,Female,Married,2
+2103322,38,Medical,Male,Married,2
+2103323,32,Technical Degree,Male,Married,1
+2103324,48,Other,Female,Married,15
+2103325,34,Medical,Male,Single,7
+2103326,55,Marketing,Male,Married,26
+2103327,34,Life Sciences,Male,Married,1
+2103328,26,Life Sciences,Female,Married,3
+2103329,38,Life Sciences,Male,Married,14
+2103330,38,Life Sciences,Female,Single,16
+2103331,36,Life Sciences,Female,Single,1
+2103332,29,Medical,Male,Single,3
+2103333,35,Medical,Female,Single,10
+2103334,39,Medical,Male,Married,6
+2103335,29,Life Sciences,Male,Divorced,2
+2103336,50,Marketing,Male,Married,9
+2103337,23,Technical Degree,Male,Married,10
+2103338,36,Life Sciences,Male,Married,6
+2103339,42,Other,Male,Single,9
+2103340,35,Life Sciences,Male,Married,28
+2103341,34,Technical Degree,Male,Married,10
+2103342,40,Life Sciences,Female,Married,14
+2103343,43,Technical Degree,Male,Divorced,27
+2103344,35,Life Sciences,Male,Married,7
+2103345,46,Life Sciences,Male,Single,1
+2103346,28,Medical,Male,Married,24
+2103347,22,Other,Female,Married,26
+2103348,50,Medical,Male,Married,20
+2103349,32,Other,Female,Married,5
+2103350,44,Medical,Female,Divorced,7
+2103351,30,Medical,Male,Married,7
+2103352,45,Medical,Female,Single,5
+2103353,45,Marketing,Male,Married,26
+2103354,31,Other,Male,Single,2
+2103355,36,Life Sciences,Female,Married,12
+2103356,34,Life Sciences,Male,Divorced,10
+2103357,49,Life Sciences,Female,Married,25
+2103358,39,Medical,Male,Married,10
+2103359,27,Other,Male,Divorced,19
+2103360,35,Life Sciences,Male,Married,18
+2103361,28,Medical,Female,Divorced,27
+2103362,21,Medical,Male,Single,5
+2103363,18,Medical,Female,Single,3
+2103364,47,Life Sciences,Female,Married,26
+2103365,39,Medical,Male,Divorced,3
+2103366,40,Life Sciences,Female,Married,15
+2103367,35,Life Sciences,Female,Married,8
+2103368,37,Life Sciences,Male,Married,19
+2103369,39,Medical,Female,Single,4
+2103370,45,Other,Female,Divorced,2
+2103371,38,Medical,Female,Married,2
+2103372,35,Medical,Male,Married,10
+2103373,37,Medical,Female,Married,10
+2103374,40,Life Sciences,Female,Single,16
+2103375,44,Human Resources,Male,Married,1
+2103376,48,Medical,Male,Married,4
+2103377,35,Medical,Male,Divorced,15
+2103378,24,Technical Degree,Female,Single,2
+2103379,27,Medical,Female,Married,8
+2103380,27,Medical,Male,Single,2
+2103381,40,Life Sciences,Male,Single,7
+2103382,29,Medical,Male,Single,10
+2103383,36,Life Sciences,Female,Married,5
+2103384,25,Life Sciences,Male,Divorced,2
+2103385,39,Medical,Male,Married,12
+2103386,49,Other,Female,Married,22
+2103387,50,Life Sciences,Female,Divorced,17
+2103388,20,Medical,Female,Single,2
+2103389,34,Life Sciences,Female,Divorced,3
+2103390,36,Life Sciences,Male,Single,7
+2103391,49,Life Sciences,Female,Married,6
+2103392,36,Medical,Female,Married,1
+2103393,36,Life Sciences,Male,Divorced,3
+2103394,54,Medical,Female,Married,22
+2103395,43,Life Sciences,Male,Married,15
+2103396,35,Other,Male,Single,12
+2103397,38,Life Sciences,Male,Married,1
+2103398,29,Medical,Male,Divorced,5
+2103399,33,Medical,Male,Divorced,2
+2103400,32,Medical,Male,Divorced,2
+2103401,31,Life Sciences,Female,Married,5
+2103402,49,Medical,Female,Divorced,16
+2103403,38,Medical,Female,Single,2
+2103404,47,Life Sciences,Female,Divorced,2
+2103405,49,Life Sciences,Male,Single,1
+2103406,41,Life Sciences,Male,Single,23
+2103407,20,Life Sciences,Male,Single,9
+2103408,33,Life Sciences,Female,Divorced,16
+2103409,36,Life Sciences,Male,Married,26
+2103410,44,Life Sciences,Female,Divorced,1
+2103411,23,Medical,Male,Single,8
+2103412,38,Medical,Female,Married,4
+2103413,53,Medical,Male,Married,24
+2103414,48,Medical,Female,Married,7
+2103415,32,Life Sciences,Male,Single,2
+2103416,26,Medical,Male,Single,7
+2103417,55,Technical Degree,Male,Divorced,22
+2103418,34,Medical,Male,Married,5
+2103419,60,Medical,Male,Divorced,1
+2103420,33,Medical,Male,Married,21
+2103421,37,Medical,Male,Divorced,1
+2103422,34,Life Sciences,Female,Married,19
+2103423,23,Life Sciences,Male,Divorced,7
+2103424,44,Life Sciences,Female,Married,2
+2103425,35,Medical,Male,Single,2
+2103426,43,Medical,Male,Married,2
+2103427,24,Medical,Male,Married,9
+2103428,41,Marketing,Male,Single,6
+2103429,29,Medical,Female,Married,9
+2103430,36,Life Sciences,Female,Single,2
+2103431,45,Life Sciences,Male,Married,1
+2103432,24,Human Resources,Male,Married,22
+2103433,47,Life Sciences,Male,Married,9
+2103434,26,Medical,Male,Married,17
+2103435,45,Technical Degree,Female,Single,28
+2103436,32,Life Sciences,Male,Married,10
+2103437,31,Life Sciences,Male,Married,2
+2103438,41,Human Resources,Male,Married,4
+2103439,40,Life Sciences,Female,Married,8
+2103440,24,Medical,Male,Divorced,29
+2103441,46,Life Sciences,Male,Single,13
+2103442,35,Life Sciences,Male,Married,27
+2103443,30,Life Sciences,Male,Married,16
+2103444,47,Marketing,Male,Married,2
+2103445,46,Life Sciences,Male,Divorced,2
+2103446,36,Marketing,Male,Divorced,13
+2103447,32,Life Sciences,Male,Single,1
+2103448,23,Medical,Female,Single,4
+2103449,31,Technical Degree,Female,Single,24
+2103450,39,Life Sciences,Male,Married,1
+2103451,32,Life Sciences,Male,Married,19
+2103452,40,Medical,Male,Single,7
+2103453,45,Life Sciences,Female,Married,4
+2103454,30,Technical Degree,Female,Single,2
+2103455,24,Medical,Male,Married,10
+2103456,30,Human Resources,Female,Divorced,8
+2103457,31,Technical Degree,Male,Married,5
+2103458,27,Medical,Female,Single,8
+2103459,29,Marketing,Female,Single,9
+2103460,29,Life Sciences,Male,Single,1
+2103461,30,Marketing,Male,Divorced,15
+2103462,34,Medical,Male,Married,2
+2103463,33,Marketing,Female,Single,2
+2103464,49,Marketing,Female,Single,11
+2103465,33,Life Sciences,Female,Single,16
+2103466,38,Medical,Female,Married,2
+2103467,31,Marketing,Male,Married,16
+2103468,29,Technical Degree,Female,Divorced,4
+2103469,30,Life Sciences,Male,Married,16
+2103470,32,Technical Degree,Male,Single,5
+2103471,38,Medical,Male,Married,18
+2103472,43,Technical Degree,Male,Married,17
+2103473,42,Medical,Male,Divorced,12
+2103474,55,Medical,Male,Married,2
+2103475,33,Technical Degree,Male,Divorced,4
+2103476,41,Life Sciences,Male,Divorced,9
+2103477,34,Life Sciences,Male,Divorced,10
+2103478,53,Medical,Female,Married,1
+2103479,43,Life Sciences,Male,Single,2
+2103480,34,Life Sciences,Female,Single,3
+2103481,21,Marketing,Male,Single,7
+2103482,38,Other,Female,Married,6
+2103483,22,Medical,Female,Married,8
+2103484,31,Marketing,Female,Married,29
+2103485,51,Technical Degree,Female,Married,3
+2103486,37,Marketing,Male,Married,9
+2103487,46,Medical,Male,Divorced,2
+2103488,36,Life Sciences,Male,Married,10
+2103489,44,Medical,Male,Divorced,1
+2103490,37,Other,Male,Divorced,8
+2103491,35,Life Sciences,Male,Single,27
+2103492,33,Life Sciences,Male,Married,8
+2103493,28,Life Sciences,Male,Married,1
+2103494,39,Medical,Male,Single,10
+2103495,46,Life Sciences,Male,Single,26
+2103496,40,Life Sciences,Female,Married,2
+2103497,42,Medical,Male,Married,13
+2103498,35,Medical,Male,Divorced,2
+2103499,38,Human Resources,Male,Divorced,2
+2103500,34,Life Sciences,Male,Married,9
+2103501,37,Medical,Male,Single,10
+2103502,39,Life Sciences,Male,Divorced,20
+2103503,43,Life Sciences,Male,Single,9
+2103504,41,Life Sciences,Male,Single,5
+2103505,41,Marketing,Female,Divorced,4
+2103506,30,Medical,Female,Single,10
+2103507,26,Medical,Female,Married,20
+2103508,46,Medical,Female,Married,21
+2103509,40,Life Sciences,Female,Divorced,1
+2103510,34,Technical Degree,Male,Married,8
+2103511,58,Medical,Male,Divorced,2
+2103512,35,Medical,Male,Married,23
+2103513,47,Life Sciences,Female,Divorced,4
+2103514,40,Life Sciences,Female,Divorced,12
+2103515,54,Medical,Female,Married,7
+2103516,31,Marketing,Female,Married,7
+2103517,28,Medical,Female,Married,1
+2103518,38,Marketing,Female,Married,2
+2103519,26,Medical,Male,Single,10
+2103520,58,Life Sciences,Male,Married,15
+2103521,18,Medical,Female,Single,14
+2103522,31,Human Resources,Male,Married,18
+2103523,29,Human Resources,Male,Divorced,13
+2103524,45,Life Sciences,Female,Married,2
+2103525,36,Other,Female,Married,2
+2103526,43,Life Sciences,Male,Married,2
+2103527,27,Life Sciences,Female,Single,5
+2103528,29,Medical,Male,Married,20
+2103529,32,Marketing,Male,Single,10
+2103530,42,Technical Degree,Male,Married,10
+2103531,47,Life Sciences,Female,Single,9
+2103532,46,Life Sciences,Male,Divorced,2
+2103533,28,Life Sciences,Male,Divorced,1
+2103534,29,Life Sciences,Male,Divorced,29
+2103535,42,Life Sciences,Male,Single,8
+2103536,32,Marketing,Male,Single,2
+2103537,46,Technical Degree,Female,Divorced,3
+2103538,27,Medical,Female,Married,23
+2103539,29,Medical,Male,Married,6
+2103540,43,Medical,Female,Married,6
+2103541,48,Life Sciences,Male,Married,10
+2103542,29,Life Sciences,Male,Single,24
+2103543,46,Life Sciences,Female,Married,10
+2103544,27,Life Sciences,Female,Married,15
+2103545,39,Other,Male,Divorced,19
+2103546,55,Technical Degree,Male,Married,2
+2103547,28,Medical,Female,Married,3
+2103548,30,Medical,Male,Single,9
+2103549,22,Life Sciences,Male,Single,7
+2103550,36,Technical Degree,Female,Married,10
+2103551,31,Life Sciences,Male,Divorced,20
+2103552,34,Life Sciences,Male,Married,4
+2103553,29,Life Sciences,Male,Single,7
+2103554,37,Medical,Male,Married,7
+2103555,35,Other,Female,Married,16
+2103556,45,Life Sciences,Female,Married,25
+2103557,36,Human Resources,Male,Single,2
+2103558,40,Life Sciences,Male,Divorced,1
+2103559,26,Life Sciences,Female,Married,1
+2103560,27,Medical,Female,Single,2
+2103561,48,Medical,Female,Divorced,22
+2103562,44,Life Sciences,Male,Married,1
+2103563,34,Technical Degree,Male,Married,16
+2103564,56,Life Sciences,Male,Single,24
+2103565,36,Marketing,Male,Married,17
+2103566,41,Marketing,Female,Married,8
+2103567,42,Medical,Male,Married,6
+2103568,31,Medical,Female,Divorced,10
+2103569,34,Medical,Female,Married,3
+2103570,31,Medical,Female,Divorced,4
+2103571,26,Other,Male,Married,6
+2103572,45,Medical,Male,Single,1
+2103573,33,Marketing,Male,Single,10
+2103574,28,Life Sciences,Male,Married,1
+2103575,29,Technical Degree,Male,Single,24
+2103576,39,Life Sciences,Female,Married,21
+2103577,27,Technical Degree,Male,Married,2
+2103578,34,Other,Male,Married,22
+2103579,28,Marketing,Female,Single,13
+2103580,47,Technical Degree,Male,Married,14
+2103581,56,Marketing,Female,Married,11
+2103582,39,Medical,Male,Married,9
+2103583,38,Medical,Female,Divorced,8
+2103584,58,Life Sciences,Female,Married,21
+2103585,32,Life Sciences,Female,Single,5
+2103586,38,Life Sciences,Male,Divorced,9
+2103587,49,Life Sciences,Male,Married,2
+2103588,42,Marketing,Male,Divorced,12
+2103589,27,Human Resources,Female,Married,22
+2103590,35,Medical,Male,Married,18
+2103591,28,Medical,Male,Single,16
+2103592,31,Medical,Male,Divorced,3
+2103593,36,Life Sciences,Male,Married,9
+2103594,34,Marketing,Male,Single,1
+2103595,34,Medical,Male,Divorced,13
+2103596,26,Medical,Male,Single,1
+2103597,29,Life Sciences,Male,Married,1
+2103598,32,Medical,Female,Divorced,15
+2103599,31,Life Sciences,Male,Married,1
+2103600,28,Technical Degree,Male,Divorced,17
+2103601,38,Life Sciences,Male,Single,1
+2103602,35,Life Sciences,Female,Married,7
+2103603,27,Marketing,Male,Single,9
+2103604,32,Life Sciences,Male,Single,5
+2103605,31,Marketing,Male,Married,26
+2103606,53,Life Sciences,Male,Single,24
+2103607,54,Life Sciences,Female,Married,9
+2103608,33,Life Sciences,Male,Divorced,7
+2103609,43,Life Sciences,Male,Married,11
+2103610,38,Other,Male,Married,1
+2103611,55,Human Resources,Male,Married,26
+2103612,31,Medical,Female,Divorced,2
+2103613,39,Marketing,Male,Single,15
+2103614,42,Life Sciences,Male,Single,23
+2103615,31,Medical,Female,Married,10
+2103616,54,Medical,Female,Single,10
+2103617,24,Life Sciences,Male,Single,1
+2103618,23,Other,Male,Single,12
+2103619,40,Technical Degree,Female,Married,11
+2103620,40,Marketing,Female,Married,2
+2103621,25,Human Resources,Female,Married,2
+2103622,30,Medical,Male,Married,1
+2103623,25,Other,Male,Divorced,2
+2103624,47,Medical,Male,Single,25
+2103625,33,Medical,Male,Divorced,1
+2103626,38,Life Sciences,Male,Married,1
+2103627,31,Life Sciences,Male,Married,2
+2103628,38,Life Sciences,Male,Married,6
+2103629,42,Life Sciences,Male,Divorced,18
+2103630,41,Life Sciences,Male,Married,1
+2103631,47,Medical,Female,Married,1
+2103632,35,Medical,Male,Married,11
+2103633,22,Life Sciences,Male,Single,1
+2103634,35,Medical,Male,Single,9
+2103635,33,Medical,Female,Married,15
+2103636,32,Life Sciences,Female,Single,29
+2103637,40,Life Sciences,Male,Married,1
+2103638,32,Medical,Male,Married,1
+2103639,39,Life Sciences,Male,Single,24
+2103640,38,Medical,Female,Married,10
+2103641,32,Marketing,Female,Married,1
+2103642,37,Life Sciences,Female,Married,10
+2103643,25,Other,Female,Divorced,8
+2103644,52,Life Sciences,Male,Divorced,29
+2103645,44,Medical,Male,Single,1
+2103646,21,Medical,Male,Single,5
+2103647,39,Life Sciences,Male,Single,9
+2103648,23,Marketing,Male,Married,9
+2103649,36,Medical,Female,Married,3
+2103650,36,Life Sciences,Female,Divorced,4
+2103651,56,Life Sciences,Male,Divorced,1
+2103652,29,Medical,Male,Married,1
+2103653,42,Life Sciences,Male,Married,2
+2103654,56,Technical Degree,Male,Married,7
+2103655,41,Life Sciences,Female,Married,28
+2103656,34,Marketing,Female,Married,28
+2103657,36,Marketing,Male,Divorced,15
+2103658,41,Life Sciences,Male,Divorced,3
+2103659,32,Technical Degree,Male,Single,2
+2103660,35,Life Sciences,Female,Single,26
+2103661,38,Life Sciences,Female,Married,10
+2103662,50,Life Sciences,Male,Divorced,1
+2103663,36,Marketing,Female,Married,11
+2103664,45,Life Sciences,Female,Single,20
+2103665,40,Life Sciences,Male,Single,2
+2103666,35,Life Sciences,Male,Married,18
+2103667,40,Medical,Female,Married,2
+2103668,35,Life Sciences,Female,Married,1
+2103669,29,Other,Male,Married,13
+2103670,29,Medical,Female,Single,28
+2103671,50,Marketing,Male,Divorced,28
+2103672,39,Marketing,Female,Married,24
+2103673,31,Medical,Male,Single,5
+2103674,26,Other,Female,Single,5
+2103675,36,Medical,Male,Married,23
+2103676,39,Medical,Male,Married,6
+2103677,27,Life Sciences,Male,Married,4
+2103678,49,Medical,Male,Married,2
+2103679,34,Medical,Male,Married,8
