@@ -1,0 +1,18 @@
+Credit Card Default Data
+Description
+A simulated data set containing information on about 1994 thousand customers. The aim here is to predict which customers will default on their credit card debt.
+
+Default
+
+
+default
+A factor with levels No and Yes indicating whether the customer defaulted on their debt
+
+student
+A factor with levels No and Yes indicating whether the customer is a student
+
+balance
+The average balance that the customer has remaining on their credit card after making their monthly payment
+
+income
+Income of customer
